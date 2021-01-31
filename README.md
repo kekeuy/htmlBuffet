@@ -1,5 +1,10 @@
 # htmlBuffet
 
+# Project meaning
+```
+This project is about pc manager with ElementApi
+```
+
 ## Project setup
 ```
 npm install
